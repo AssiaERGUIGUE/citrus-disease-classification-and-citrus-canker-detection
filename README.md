@@ -6,7 +6,7 @@
 
 This project is essentially made of two parts: 
 1. Partie1: Classification of Farm Insects, with Emphasis on Orange Canker Culprits: " https://colab.research.google.com/drive/1jLP3drrjNmkidDpHmoDuPMHoMLBaU-8C?usp=sharing "
-2. Partie2: Segmentation and canker disease detection in citrus: 
+2. Partie2: Segmentation and canker disease detection in citrus: " https://colab.research.google.com/drive/1Dew_5GkKSeqfL_oAI7Yvbejx2xPctKzB?usp=sharing "
 
 **Context:**
 
