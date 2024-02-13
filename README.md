@@ -10,7 +10,7 @@ This project is essentially made of two parts:
 
 **Context:**
 
-In modern agriculture, the sustainable management of pests plays a crucial role in optimizing crop yield and ensuring food security. Our farm, situated in [Location], has been facing persistent challenges posed by various insect pests, with a particular emphasis on those responsible for the detrimental orange canker disease. The increasing prevalence of these pests has led us to explore innovative solutions, and we believe that harnessing the power of data science can significantly enhance our pest management strategies.
+In modern agriculture, the sustainable management of pests plays a crucial role in optimizing crop yield and ensuring food security. Our farm has been facing persistent challenges posed by various insect pests, with a particular emphasis on those responsible for the detrimental orange canker disease. The increasing prevalence of these pests has led us to explore innovative solutions, and we believe that harnessing the power of data science can significantly enhance our pest management strategies.
 
 **Objective:**
 
